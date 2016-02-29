@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello Android</string>
+    <string name="action_settings">菜单</string>
+    <string name="hello_android">你好！android</string>>
+</resources>
